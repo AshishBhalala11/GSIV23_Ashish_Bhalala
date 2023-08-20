@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GSIV23_Ashish_Bhalala/static/css/main.85254ff5.css",
+    "main.js": "/GSIV23_Ashish_Bhalala/static/js/main.117e0137.js",
+    "static/js/787.2b35ebb1.chunk.js": "/GSIV23_Ashish_Bhalala/static/js/787.2b35ebb1.chunk.js",
+    "index.html": "/GSIV23_Ashish_Bhalala/index.html",
+    "main.85254ff5.css.map": "/GSIV23_Ashish_Bhalala/static/css/main.85254ff5.css.map",
+    "main.117e0137.js.map": "/GSIV23_Ashish_Bhalala/static/js/main.117e0137.js.map",
+    "787.2b35ebb1.chunk.js.map": "/GSIV23_Ashish_Bhalala/static/js/787.2b35ebb1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85254ff5.css",
+    "static/js/main.117e0137.js"
+  ]
+}
